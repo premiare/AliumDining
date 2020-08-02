@@ -1,0 +1,10 @@
+@media (max-width: 1080px) {
+  .logoParent {
+    max-width: 720px;
+  }
+  @media (max-width: 800px) {
+    .logoParent {
+      max-width: 480px;
+    }
+  }
+}
